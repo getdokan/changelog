@@ -9,6 +9,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
+- **Bank Gateway:** The manual payment gateway "Bank" has been added.
+- **Product Bulk Edit:** Products can now be edited in bulk.
+
+## [2.0.0] - 2024-09-05
+
+### Added
+
 - **Standalone Shop:** Empowers small to medium entrepreneurs to quickly launch their own online shops.
 - **Support PIN:** Enables admin to provide temporary access of their marketplace/shop to the support team.
 - **Multiple Payment Gateways:** Added support for gateways like RazorPay, MangoPay, SSLCommerz, Tap, Iyzico etc.
@@ -28,7 +35,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - **Product Zoom:** Customers can now hover over the image of a product and see the magnified view of the product image.
 - **Vendor Onboarding Customization:** Admin can now customize which fields are required for vendor registration. All fields are turned off by default.
 - **Order Activity:** Order activity has been added to the order details page in admin/vendor dashboard.
-- **Bank Gateway:** The manual payment gateway "Bank" has been added.
 - **Calendly Integration:** To get feedback faster, we have added a calendly meeting schedule link on the navigation bar of the dashboard.
 - **Survey:** To better understand users' needs, we have added a survey module through which we will collect user feedback.
 
