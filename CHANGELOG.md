@@ -17,7 +17,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - **Snippet Settings:** Allows admin to add custom JS snippet to their marketplace/shop.
 - **Product/Store Social Share:** The social share links have been added to product/store page in the storefront.
 - **Social Links Block:** Dokan Builder has a new social link block.
-- **Block Presets:** Multiple block presets have been added to Dokan Builder which saves some time.
+- **Block Presets:** Multiple block presets have been added to Dokan Builder which saves huge time.
+- **Blocks:** Multiple block elements have been added to Dokan Builder which is helpful for building website faster.
 - **Product Filter:** Improved new design of filtering products in the admin dashboard.
 - **Approve/Reject Payout Request:** Admin can now approve or reject a payout request with a note.
 - **Frequently Bought Together:** A new section called Frequently Bought Together has been added to product page in the storefront.
@@ -34,6 +35,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 
 - **Revamped Shipping:** Shipping module has been reimagined with ease of use in mind.
+- **Revamped Payment:** Payment module has been reimplemented to support more sub-gateways for stripe and mangopay.
 - **Login and Registration:** The pages have been redesigned.
 
 ## [1.0.0] - 2024-03-18
