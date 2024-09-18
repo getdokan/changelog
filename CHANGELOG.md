@@ -10,9 +10,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 
 - **Bank Gateway:** The manual payment gateway "Bank" has been added.
-- **Paystack Gateway**
 - **Vendor Subscription via Paypal**
 - **Product Bulk Edit:** Products can now be edited in bulk.
+
+## [2.0.2] - 2024-09-18
+
+### Added
+- **Paystack Gateway** Added paystack gateway for collecting payments from customers. Payout & subscription will be introduced later.
 
 ## [2.0.1] - 2024-09-11
 
