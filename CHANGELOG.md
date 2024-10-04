@@ -7,6 +7,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Ongoing
+- **Product Collections**
+- **Single Product Page Customization**
+- **Shop Page Customization**
+- **Megamenu (Dropdown) Block**
+- **Tab Block**
+
 ### Added
 
 - **Bank Gateway:** The manual payment gateway "Bank" has been added.
