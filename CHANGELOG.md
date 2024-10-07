@@ -13,12 +13,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - **Shop Page Customization**
 - **Megamenu (Dropdown) Block**
 - **Tab Block**
+- **Mobile Responsive**
 
 ### Added
-
 - **Bank Gateway:** The manual payment gateway "Bank" has been added.
+- **Payfast** payment gateway.
 - **Vendor Subscription via Paypal**
 - **Product Bulk Edit:** Products can now be edited in bulk.
+
+### Changed/Enhanced
+- **Coupon** 
 
 ## [2.0.2] - 2024-09-18
 
