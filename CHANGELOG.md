@@ -12,6 +12,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - **Megamenu (Dropdown) Block**
 - **Tab Block**
 - **Mobile Responsive**
+- **Remove Cart from local storage**
+- **bKash Gateway**
 
 ### Added
 - **Bank Gateway:** The manual payment gateway "Bank" has been added.
