@@ -9,8 +9,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Ongoing
 - **Product Collections**
-- **Single Product Page Customization**
-- **Shop Page Customization**
 - **Megamenu (Dropdown) Block**
 - **Tab Block**
 - **Mobile Responsive**
@@ -20,6 +18,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - **Payfast** payment gateway.
 - **Vendor Subscription via Paypal**
 - **Product Bulk Edit:** Products can now be edited in bulk.
+- **Single Product Page Customization**
+- **Shop Page Customization**
 
 ### Changed/Enhanced
 - **Coupon** 
