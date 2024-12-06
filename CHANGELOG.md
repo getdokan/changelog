@@ -23,11 +23,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - **Zero Payment Method**
 
 ### Bug Fixes
-- #1637 Refund Option Available Before Payment, Should Be Enabled Only After Payment Status is 'Paid' | MT
-- #1659 Tax Not Calculated on Shipping at Checkout, But Calculated on Order Received Page
-- #1597  Display Payment Methods in Order Activity for Cash on Delivery
-- #1612 Unrestricted Download Link Access for Digital Products. | MT
-- #1768 Error When Reconnecting Mailchimp Integration
+- https://github.com/getdokan/project/issues/1637 Refund Option Available Before Payment, Should Be Enabled Only After Payment Status is 'Paid' | MT
+- https://github.com/getdokan/project/issues/1659 Tax Not Calculated on Shipping at Checkout, But Calculated on Order Received Page
+- https://github.com/getdokan/project/issues/1597  Display Payment Methods in Order Activity for Cash on Delivery
+- https://github.com/getdokan/project/issues/1612 Unrestricted Download Link Access for Digital Products. | MT
+- https://github.com/getdokan/project/issues/1768 Error When Reconnecting Mailchimp Integration
 
 ### Enhanced
 - **Synchronized Cart System**
