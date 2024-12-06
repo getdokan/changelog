@@ -8,9 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 ### Ongoing
-- **Megamenu (Dropdown) Block**
 - **Mobile Responsive**
-- **Remove Cart from local storage**
 - **bKash Gateway**
 
 ### Added
@@ -21,7 +19,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - **Megamenu (Dropdown) Block**
 - **Recently Viewed Products**
 - **New Theme: Pulse, Lumen, Vivid, Verge, Nova**
-- **Mobile Responsive**
+- **New Theme Version: Storefront, Mega Mall**
 - **Order Private File Download**
 - **Zero Payment Method**
 
@@ -30,9 +28,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - #1659 Tax Not Calculated on Shipping at Checkout, But Calculated on Order Received Page
 - #1597  Display Payment Methods in Order Activity for Cash on Delivery
 - #1612 Unrestricted Download Link Access for Digital Products. | MT
+- #1768 Error When Reconnecting Mailchimp Integration
 
 ### Enhanced
-- **Remove Cart from local storage**
+- **Synchronized Cart System**
+- **Mobile Responsive**
 
 ## [2.1.0] - 2024-10-18
 
