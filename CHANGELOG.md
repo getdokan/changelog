@@ -13,6 +13,27 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - **Remove Cart from local storage**
 - **bKash Gateway**
 
+### Added
+- **Collection list page customization through builder**
+- **Collection details page customization through builder**
+- **Category list page customization through builder**
+- **Category details page customization through builder**
+- **Megamenu (Dropdown) Block**
+- **Recently Viewed Products**
+- **New Theme: Pulse, Lumen, Vivid, Verge, Nova**
+- **Mobile Responsive**
+- **Order Private File Download**
+- **Zero Payment Method**
+
+### Bug Fixes
+- #1637 Refund Option Available Before Payment, Should Be Enabled Only After Payment Status is 'Paid' | MT
+- #1659 Tax Not Calculated on Shipping at Checkout, But Calculated on Order Received Page
+- #1597  Display Payment Methods in Order Activity for Cash on Delivery
+- #1612 Unrestricted Download Link Access for Digital Products. | MT
+
+### Enhanced
+- **Remove Cart from local storage**
+
 ## [2.1.0] - 2024-10-18
 
 ### Added
