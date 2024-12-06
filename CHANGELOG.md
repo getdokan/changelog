@@ -10,6 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Ongoing
 - **Mobile Responsive**
 - **bKash Gateway**
+- **OTO Shipping Gateway**
 
 ### Added
 - **Collection details page customization through builder**
