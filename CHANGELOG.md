@@ -12,7 +12,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - **bKash Gateway**
 
 ### Added
-- **Collection list page customization through builder**
 - **Collection details page customization through builder**
 - **Category list page customization through builder**
 - **Category details page customization through builder**
