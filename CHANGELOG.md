@@ -13,15 +13,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - **OTO Shipping Gateway**
 
 ### Added
-- **Collection details page customization through builder**
-- **Category list page customization through builder**
-- **Category details page customization through builder**
-- **Megamenu (Dropdown) Block**
-- **Recently Viewed Products**
-- **New Theme: Pulse, Lumen, Vivid, Verge, Nova**
-- **New Theme Version: Storefront, Mega Mall**
-- **Order Private File Download**
-- **Zero Payment Method**
+- **Collection details page customization through builder:** admin can customize collection details page through page builder.
+- **Category list page customization through builder:** admin can customize category list page through page builder.
+- **Category details page customization through builder:** admin can customize category details page through page builder.
+- **Megamenu (Dropdown) Block:** admin can create dropdown in builder.
+- **Recently Viewed Products:** using this block, admin can show the recently viewed products to users.
+- **New Theme:** Pulse, Lumen, Vivid, Verge and Nova.
+- **New Theme Version:** Storefront, Mega Mall have new version.
+- **Order Private File Download:** digital files will be downloaded privately.
+- **Zero Payment Method:** for handling free products purchase.
 
 ### Bug Fixes
 - https://github.com/getdokan/project/issues/1637 Refund Option Available Before Payment, Should Be Enabled Only After Payment Status is 'Paid' | MT
@@ -31,8 +31,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - https://github.com/getdokan/project/issues/1768 Error When Reconnecting Mailchimp Integration
 
 ### Enhanced
-- **Synchronized Cart System**
-- **Mobile Responsive**
+- **Synchronized Cart System:** removed cart from localstorage.
+- **Mobile Responsive:** made more dashboard and storefront pages responsive.
 
 ## [2.1.0] - 2024-10-18
 
