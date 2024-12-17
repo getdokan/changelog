@@ -38,17 +38,17 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 - **Bank Gateway:** The manual payment gateway "Bank" has been added.
-- **Payfast** payment gateway.
-- **Vendor Subscription via Paypal**
+- **Payfast:** payment gateway.
+- **Vendor Subscription via Paypal:** vendor can purchase subscription using paypal.
 - **Product Bulk Edit:** Products can now be edited in bulk.
-- **Product Collections**
-- **Single Product Page Customization**
-- **Shop Page Customization**
-- **Tab Block**
-- **Mobile Responsive**
+- **Product Collections:** admin can create prouduct collections and display products in storefront.
+- **Single Product Page Customization:** admin can customize single product page through page builder.
+- **Shop Page Customization:** admin can customize shop page through page builder.
+- **Tab Block:** while customizing through builder, admin can create tab using this block.
+- **Mobile Responsive:** made various dashboard and storefront pages responsive.
 
 ### Enhanced
-- **Coupon**
+- **Coupon:** enhanced coupon creation.
 
 ## [2.0.2] - 2024-09-18
 
