@@ -11,6 +11,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - **Mobile Responsive**
 - **bKash Gateway**
 - **OTO Shipping Gateway**
+- **Avalara Tax Gateway**
+
+## [2.1.1] - 2024-12-30
 
 ### Added
 - **Collection details page customization through builder:** admin can customize collection details page through page builder.
