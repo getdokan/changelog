@@ -16,6 +16,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - **Collection details page customization through builder:** admin can customize collection details page through page builder.
 - **Category list page customization through builder:** admin can customize category list page through page builder.
 - **Category details page customization through builder:** admin can customize category details page through page builder.
+- **Store Details page customization:** admin can customize store details page through page buikder.
 - **Megamenu (Dropdown) Block:** admin can create dropdown in builder.
 - **Recently Viewed Products:** using this block, admin can show the recently viewed products to users.
 - **New Theme:** Pulse, Lumen, Vivid, Verge and Nova.
@@ -33,6 +34,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Enhanced
 - **Synchronized Cart System:** removed cart from localstorage.
 - **Mobile Responsive:** made more dashboard and storefront pages responsive.
+- **Tax Configuration:** enhanced manual tax configuration.
 
 ## [2.1.0] - 2024-10-18
 
