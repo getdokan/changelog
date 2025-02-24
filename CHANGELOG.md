@@ -10,8 +10,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Ongoing
 - **Mobile Responsive**
 - **bKash Gateway**
-- **OTO Shipping Gateway**
 - **Avalara Tax Gateway**
+- **www Domain support**
+### Added
+- **OTO Shipping Gateway**
+- **Builder Multi-lingual**
 
 ## [2.1.1] - 2024-12-30
 
