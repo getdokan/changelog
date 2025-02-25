@@ -15,6 +15,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - **OTO Shipping Gateway**
 - **Builder Multi-lingual**
+- **Custom Email Domain**
+- **Mobile login with OTP**
 
 ## [2.1.1] - 2024-12-30
 
