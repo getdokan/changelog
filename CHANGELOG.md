@@ -12,10 +12,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - **bKash Gateway**
 - **Avalara Tax Gateway**
 - **www Domain support**
+- **Signup with OTP**
+
 ### Added
 - **OTO Shipping Gateway**
-- **Builder Multi-lingual**
 - **Custom Email Domain**
+
+## [2.2.0] - 2025-02-26
+
+### Added
+- **Builder Multi-lingual**
 - **Mobile login with OTP**
 - **Image Cropping**
 
