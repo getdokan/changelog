@@ -21,9 +21,21 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [2.1.2] - 2025-02-26
 
 ### Added
-- **Builder Multi-lingual**
-- **Mobile login with OTP**
-- **Image Cropping**
+- **Builder Multi-lingual:** admin can customize the pages and different texts for each supported languages.
+- **Mobile login with OTP:** vendor can login via mobile otp verification.
+- **Image Cropping:** admin/vendor can crop image after uploading images.
+- **Theme search and scroll:** admin can search for themes in theme library.
+- **Yearly Billing:** admin can purchase cloud subscription with both monthly and yearly payment.
+
+### Bug Fixes
+- Show refunded orders in proper tab
+- Domain verification issue
+- Image `alt` tag text saving issue
+- Support noscript and comment in head tags
+- Fixed recommended UI issues.
+
+### Enhanced
+- Enahnced shipping UI
 
 ## [2.1.1] - 2024-12-30
 
