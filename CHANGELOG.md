@@ -18,7 +18,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - **OTO Shipping Gateway**
 - **Custom Email Domain**
 
-## [2.2.0] - 2025-02-26
+## [2.1.2] - 2025-02-26
 
 ### Added
 - **Builder Multi-lingual**
