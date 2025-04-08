@@ -11,6 +11,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - **Mobile Responsive**
 - **Avalara Tax Gateway**
 - **Signup with OTP**
+- **Category Export**
+- **Category Import**
+- **Localization**
 
 ### Added
 - **OTO Shipping Gateway**
