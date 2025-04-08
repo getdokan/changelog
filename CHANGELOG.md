@@ -9,14 +9,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Ongoing
 - **Mobile Responsive**
-- **bKash Gateway**
 - **Avalara Tax Gateway**
-- **www Domain support**
 - **Signup with OTP**
 
 ### Added
 - **OTO Shipping Gateway**
 - **Custom Email Domain**
+- **bKash Gateway**
+- **www Domain support**
 
 ## [2.1.2] - 2025-02-26
 
