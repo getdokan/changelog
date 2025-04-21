@@ -20,6 +20,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - **Custom Email Domain**
 - **bKash Gateway**
 - **www Domain support**
+- **Wishlist**
 
 ## [2.1.2] - 2025-02-26
 
