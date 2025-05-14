@@ -9,11 +9,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Ongoing
 - **Mobile Responsive**
-- **Avalara Tax Gateway**
+- **Avalara Tax Service**
 - **Signup with OTP**
 - **Category Export**
 - **Category Import**
 - **Localization**
+- **Product Pre-order**
+- **Product Q&A**
 
 ### Added
 - **OTO Shipping Gateway**
@@ -21,6 +23,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - **bKash Gateway**
 - **www Domain support**
 - **Wishlist**
+- **Product Abuse Report**
 
 ## [2.1.2] - 2025-02-26
 
