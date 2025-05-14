@@ -16,6 +16,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - **Localization**
 - **Product Pre-order**
 - **Product Q&A**
+- **Multi currency**
 
 ### Added
 - **OTO Shipping Gateway**
@@ -24,6 +25,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - **www Domain support**
 - **Wishlist**
 - **Product Abuse Report**
+- **Vendor Login with Mobile OTP**
 
 ## [2.1.2] - 2025-02-26
 
