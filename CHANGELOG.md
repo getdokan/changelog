@@ -13,7 +13,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - **Signup with OTP**
 - **Category Export**
 - **Category Import**
-- **Localization**
+- **Multi-lingual support in everywhere**
 - **Product Pre-order**
 - **Product Q&A**
 - **Multi currency**
