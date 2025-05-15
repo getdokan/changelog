@@ -20,6 +20,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - **Stripe Connect**
 - **Product Duplicate**
 - **OTO Shipping Gateway**
+- **Product Import Field Mapping**
 
 ### Added
 - **Custom Email Domain**
@@ -29,7 +30,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - **Product Abuse Report**
 - **Woocommerce Store Migrator**
 - **Packing Slip Generator**
-- **POS Invocie Print**
+- **POS Invoice Print**
 - **Global Attribute**
 - **Revamped Attribute Mapping**
 
