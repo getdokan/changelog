@@ -19,9 +19,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - **Multi currency**
 - **Stripe Connect**
 - **Product Duplicate**
+- **OTO Shipping Gateway**
 
 ### Added
-- **OTO Shipping Gateway**
 - **Custom Email Domain**
 - **bKash Gateway**
 - **www Domain support**
@@ -29,6 +29,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - **Product Abuse Report**
 - **Woocommerce Store Migrator**
 - **Packing Slip Generator**
+- **POS Invocie Print**
+- **Global Attribute**
+- **Revamped Attribute Mapping**
 
 ## [2.1.2] - 2025-02-26
 
