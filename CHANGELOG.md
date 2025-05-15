@@ -18,6 +18,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - **Product Q&A**
 - **Multi currency**
 - **Stripe Connect**
+- **Product Duplicate**
 
 ### Added
 - **OTO Shipping Gateway**
@@ -27,6 +28,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - **Wishlist**
 - **Product Abuse Report**
 - **Woocommerce Store Migrator**
+- **Packing Slip Generator**
 
 ## [2.1.2] - 2025-02-26
 
