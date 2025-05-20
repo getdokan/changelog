@@ -20,19 +20,27 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - **Stripe Connect**
 - **Product Duplicate**
 - **OTO Shipping Gateway**
-- **Product Import Field Mapping**
+
+## [2.2.0] - 2025-05-19
 
 ### Added
-- **Custom Email Domain**
-- **bKash Gateway**
-- **www Domain support**
-- **Wishlist**
-- **Product Abuse Report**
-- **Woocommerce Store Migrator**
-- **Packing Slip Generator**
-- **POS Invoice Print**
-- **Global Attribute**
+- **Custom Email Domain:** admin can configure to use his own domain for sending emails.
+- **bKash Gateway:** customers can pay vis bkash.
+- **www Domain support:** admin can add both www & non-www version of domain together.
+- **Wishlist:** customers can add products to various lists for future use.
+- **Product Abuse Report:** customer can report about products.
+- **Woocommerce Store Migrator:** standalone admin can migrate products, customers from woocommerce.
+- **Packing Slip Generator:** vendor/admin can download generated packing slips for shipments.
+- **POS Invoice Print:** admin/vendor can print POS size invoices.
+- **Global Attribute:** admin can create global attributes to reuse in cartegory or products.
 - **Revamped Attribute Mapping**
+- **Product Import Field Mapping**
+
+### Enhanced
+- Lots of UI enhancements.
+
+### Bug Fixes
+- Fixed a lots of bugs.
 
 ## [2.1.2] - 2025-02-26
 
