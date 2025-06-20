@@ -14,7 +14,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - **Multi-lingual support in everywhere**
 - **Product Pre-order**
 - **Product Q&A**
-- **Multi currency**
+- **Webhooks**
 - **Stripe Connect**
 - **OTO Shipping Gateway**
 
