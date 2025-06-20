@@ -11,15 +11,37 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - **Mobile Responsive**
 - **Avalara Tax Service**
 - **Signup with OTP**
-- **Category Export**
-- **Category Import**
 - **Multi-lingual support in everywhere**
 - **Product Pre-order**
 - **Product Q&A**
 - **Multi currency**
 - **Stripe Connect**
-- **Product Duplicate**
 - **OTO Shipping Gateway**
+
+## [2.2.2] - 2025-06-12
+
+### Added
+- **Product Attribute Block**
+- **Theme Store:** https://themes.dokan.co
+
+### Enhanced
+- Lots of UI enhancements.
+
+### Bug Fixes
+- Fixed a lots of bugs.
+
+## [2.2.1] - 2025-06-12
+
+### Added
+- **Product Duplicate**
+- **Category Export**
+- **Category Import**
+
+### Enhanced
+- Lots of UI enhancements.
+
+### Bug Fixes
+- Fixed a lots of bugs.
 
 ## [2.2.0] - 2025-05-19
 
