@@ -18,7 +18,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - **Stripe Connect**
 - **OTO Shipping Gateway**
 
-## [2.2.2] - 2025-06-12
+## [2.2.2] - 2025-06-19
 
 ### Added
 - **Product Attribute Block**
