@@ -14,9 +14,19 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - **Multi-lingual support in everywhere**
 - **Product Pre-order**
 - **Product Q&A**
-- **Webhooks**
 - **Stripe Connect**
 - **OTO Shipping Gateway**
+
+## [2.2.3] - 2025-07-11
+- **Webhooks:** limited events support. more events will be supported later.
+- **Private Media Uploader**
+- **Upload file using url**
+- **Downloadable Products v2**
+- **Romanian Language support**
+- **Display vendor commission in their billing page**
+- **Enhanced category and attribute.**
+- Lots of UI enhancements.
+- Fixed a lots of bugs.
 
 ## [2.2.2] - 2025-06-19
 
