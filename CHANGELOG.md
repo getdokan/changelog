@@ -17,6 +17,24 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - **Stripe Connect**
 - **OTO Shipping Gateway**
 
+## [2.3.0] - 2025-08-11
+- **Multi-lingual** support (products, categories, collections, brands, etc). The customer can switch between supported languages.
+- **Shurjopay** payment gateway for Bangladesh
+- **Customer account self deletion**
+- **Enhanced bulk edit**
+- Lots of UI enhancements and issue fixes
+
+## [2.2.5] - 2025-07-24
+- **Preview functionality** for categories and collections with tooltips
+- Fixed multiple missing localizations
+- Fixed tax import
+- Attribute and variation UX improvements
+- Reduced nested levels of sitemap
+
+## [2.2.4] - 2025-07-15
+- **Romanian language** support
+- **Vendor commission information** in vendor details
+
 ## [2.2.3] - 2025-07-11
 - **Webhooks:** limited events support. more events will be supported later.
 - **Private Media Uploader**
