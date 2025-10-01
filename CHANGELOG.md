@@ -26,11 +26,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - **Meta Pixel Integration**
 - **Checkout Session**
 - Enhanced shipping
+- Improved Localization
 - Lots of UI enhancements and issue fixes
 
 ## [2.3.1] - 2025-09-19
 - **URL Redirects**
-- Product grid block image size control 
+- Product grid block image size control
+- Improved Localization
 
 ## [2.3.0] - 2025-08-11
 - **Multi-lingual** support (products, categories, collections, brands, etc). The customer can switch between supported languages.
