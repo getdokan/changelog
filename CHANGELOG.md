@@ -22,8 +22,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - **OTO Shipping Gateway**
 - **Redx Shipping Gateway**
 - **Steadfast Shipping Gateway**
+- **Render HTML from Server** render h1, h2, div, p or other html from server directly for the seo benefits.
+- **Meta Pixel Integration**
+- **Checkout Session**
 - Enhanced shipping
 - Lots of UI enhancements and issue fixes
+
+## [2.3.1] - 2025-09-19
+- **URL Redirects**
+- Product grid block image size control 
 
 ## [2.3.0] - 2025-08-11
 - **Multi-lingual** support (products, categories, collections, brands, etc). The customer can switch between supported languages.
