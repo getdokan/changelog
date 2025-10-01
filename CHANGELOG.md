@@ -13,14 +13,17 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - **Signup with OTP**
 - **Multi-lingual support in everywhere**
 - **Product Pre-order**
-- **Product Q&A**
 - **Stripe Connect**
-- **OTO Shipping Gateway**
 
 ## [2.4.0] - 2025-09-30
 - **Migration** order-service, report-service, shipping-service and activity-service has been migrated into laravel.
 - **Product Q&A** customers can ask questions and vendors can reply.
 - **Product Review** admin & vendor can see their product reviews in dashboard and admin can approve review.
+- **OTO Shipping Gateway**
+- **Redx Shipping Gateway**
+- **Steadfast Shipping Gateway**
+- Enhanced shipping
+- Lots of UI enhancements and issue fixes
 
 ## [2.3.0] - 2025-08-11
 - **Multi-lingual** support (products, categories, collections, brands, etc). The customer can switch between supported languages.
