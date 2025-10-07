@@ -25,6 +25,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - **Render HTML from Server** render h1, h2, div, p or other html from server directly for the seo benefits.
 - **Meta Pixel Integration**
 - **Checkout Session**
+- **Become a Vendor Page**
+- **Improved Server Side Rendering for SEO**
 - Enhanced shipping
 - Improved Localization
 - Lots of UI enhancements and issue fixes
