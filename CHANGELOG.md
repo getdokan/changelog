@@ -14,7 +14,38 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - **Multi-lingual support in everywhere**
 - **Product Pre-order**
 - **Stripe Connect**
+## [2.5.9] - 2025-02-23
+- Fixed Stripe payment option not displaying
 
+## [2.5.8 – 2.5.6] - 2025-02-02
+- Added client-side style and font injection in **StyleManager**
+- Streamlined SSR style injection
+- Fixed French translation issues
+
+## [2.5.5] - 2025-10-17
+- Fixed billing address handling based on shipping address
+- Added URL redirection support
+
+## [2.5.4] - 2025-10-14
+- Fixed product image block slider issue
+
+## [2.5.3] - 2025-10-09
+- Updated SEO metadata handling
+- Improved social share URL generation
+
+## [2.5.2] - 2025-10-03
+- Display COD description from settings
+
+## [2.5.1] - 2025-10-01
+- Fixed checkout and cart UI overflow
+- Enhanced token refresh middleware
+- Improved header component state management
+- Fixed store reviews fallback
+
+## [2.4.5 – 2.4.3] - 2025-09-02
+- Fixed Google address autocomplete suggestion (z-index issue)
+- Fixed missing digital product media
+- Minor UI and stability improvements
 ## [2.4.0] - 2025-09-30
 - **Migration** order-service, report-service, shipping-service and activity-service has been migrated into laravel.
 - **Product Q&A** customers can ask questions and vendors can reply.
@@ -30,11 +61,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Enhanced shipping
 - Improved Localization
 - Lots of UI enhancements and issue fixes
-
-## [2.3.1] - 2025-09-19
-- **URL Redirects**
-- Product grid block image size control
-- Improved Localization
 
 ## [2.3.0] - 2025-08-11
 - **Multi-lingual** support (products, categories, collections, brands, etc). The customer can switch between supported languages.
