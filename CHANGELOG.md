@@ -14,10 +14,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - **Multi-lingual support in everywhere**
 - **Product Pre-order**
 - **Stripe Connect**
-## [2.5.9] - 2025-02-23
+## [2.5.9] - 2025-10-28
 - Fixed Stripe payment option not displaying
 
-## [2.5.8 – 2.5.6] - 2025-02-02
+## [2.5.8 – 2.5.6] - 2025-10-25
 - Added client-side style and font injection in **StyleManager**
 - Streamlined SSR style injection
 - Fixed French translation issues
